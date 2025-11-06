@@ -15,11 +15,7 @@ This project delivers a comprehensive banking analytics solution with three dash
   - Cards Dashboard  
 - [Data model / schema (examples)](#data-model--schema-examples)  
 - [Sample SQL queries](#sample-sql-queries)  
-- [Sample DAX measures (Power BI)](#sample-dax-measures-power-bi)  
-- [Visuals & recommendations](#visuals--recommendations)  
-- [Project structure](#project-structure)  
-- [How to run / deploy](#how-to-run--deploy)  
-- [License](#license)  
+
 
 ---
 
